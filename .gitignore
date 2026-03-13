@@ -663,3 +663,5 @@ sketch
 /Application/Common/Conf/config.php
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,flask,phpunit,phpstorm,thinkphp,node,java,react
+
+vendor/
